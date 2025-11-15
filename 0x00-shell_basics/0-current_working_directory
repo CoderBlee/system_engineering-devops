@@ -1,5 +1,2 @@
 #!/bin/bash
 pwd
-ls -la
-echo "Current working directory displayed above."
-#!/bin/bash
