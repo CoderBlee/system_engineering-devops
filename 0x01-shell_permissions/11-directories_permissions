@@ -1,0 +1,3 @@
+#!/bin/bash
+# This script adds execute permission to all subdirectories for all users
+chmod -R a+X .
